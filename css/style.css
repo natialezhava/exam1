@@ -1,0 +1,134 @@
+/* header */
+.header {
+  background-image: url("../images/image1.svg");
+  width: 1366px;
+  height: 324px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+}
+.div1 {
+  width: 1366px;
+  height: 324px;
+  background-color: #000000;
+  opacity: 60%;
+}
+.main-div {
+  display: flex;
+  justify-content: space-between;
+  width: 1089px;
+  height: 20px;
+  margin: 0 auto;
+  padding-top: 30px;
+}
+.ul {
+  display: flex;
+}
+.main-div a {
+    /* color: white; */
+    text-transform: uppercase;
+}
+.li {
+  margin-right: 52px;
+}
+.aboutus {
+  width: 173px;
+  margin-top: 145px;
+  margin-left: 139px;
+  color: white;
+  /* font-size: 41px; */
+}
+.aboutus h1 {
+  font-size: 42px;
+}
+.aboutus a {
+  font-size: 14px;
+}
+.home {
+  display: flex;
+  margin-top: 18px;
+}
+.divider {
+  width: 2px;
+  height: 19px;
+  background-color: aqua;
+  margin: 0px 16px;
+}
+.aboutus a {
+    font-size: 14px;
+    color: white;
+} 
+.aa {
+    color: #5863F8;
+}
+a {
+    color: #fff;
+}
+
+/* section one */
+.main-div1 {
+    /* width: 1088px; */
+    /* height: 461px; */
+    /* background-color: red; */
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    width: 1089px;
+    margin-top: 80px;
+}
+.left-block1 {
+    width: 444px;
+    height: 388px;
+    background-color: lightcyan;
+    /* margin: 128px 108px 125px 139px; */
+}
+.right-block1 {
+    width: 537px;
+    height: 461px;
+    background-color: lightblue;
+    /* margin: 90px 139px 90px 0; */
+    margin-left: 108px;
+}
+/* .section1 {
+    width: 1366px;
+    height: 641px;
+} */
+
+/* .top-pic {
+    display: flex;
+    justify-content: space-between;
+}
+
+.image4.jpg {
+    width: 260px;
+    height: 185px;
+    background-image: url('../images/image4.jpg');
+}
+.image5.jpg {
+    width: 260px;
+    height: 185px;
+    background-image: url('../images/image5.jpg');
+} */
+.zeda {
+    display: flex;
+    width: 536px;
+    height: 260px;
+    justify-content: space-between;
+}
+.poto1 {
+    background-image: url('../images/image4.jpg');
+    width: 260px;
+    height: 185px;
+    background-position: center;
+}
+.poto2 {
+    background-image: url('../images/image3.jpg');
+    width: 260px;
+    height: 185px;
+    background-position: center;
+}
+.qveda1 {
+    width: 536px;
+    height: 260px;
+    background-image: url('../images/image5.jpg');
+}
