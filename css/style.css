@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500&display=swap');
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
 /* header */
 .header {
   position: relative;
@@ -32,7 +38,6 @@
   margin-right: 52px;
 }
 .aboutus {
-  width: 173px;
   margin-top: 145px;
   margin-left: 139px;
   color: white;
@@ -112,11 +117,11 @@ a {
   font-size: 42px;
   margin-bottom: 14px;
   width: 306px;
-  height: 112px;
 }
 .left-block1 p {
   width: 444px;
   font-size: 16px;
+  line-height: 19px;
 }
 .readme {
   width: 184px;
@@ -161,8 +166,7 @@ a {
 .topdiv p {
   color: #FFFFFF;
   font-size: 42px;
-  width: 332px;
-  height: 112px;
+  margin-bottom: 15px;
 }
 .maindiv3 {
   position: relative;
@@ -201,7 +205,6 @@ a {
   height: 32.73px;
 }
 .whitedivs h3 {
-  width: 142px;
   height: 48px;
   text-align: center;
   margin-top: 15px;
@@ -211,6 +214,8 @@ a {
   height: 62px;
   color: #B1B1B1;
   text-align: center;
+  font-size: 12px;
+  line-height: 18px;
 }
 
 
@@ -255,7 +260,6 @@ a {
 }
 .left-block4 h3 {
   width: 352px;
-  height: 62px;
   font-size: 14px;
 }
 
@@ -333,6 +337,7 @@ a {
   color: #FFFFFF;
   font-size: 18px;
   padding-bottom: 21px;
+  white-space: nowrap;
 }
 .footer-div-2 li {
   color: #5863F8;
@@ -376,6 +381,7 @@ a {
 }
 .fonaly-li {
   padding-bottom: 21px;
+  white-space: nowrap;
 }
 .fonaly-li a {
   padding-left: 14px;
